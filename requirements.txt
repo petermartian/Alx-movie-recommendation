@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+nltk
+nltk.stem
+sklearn
+sklearn.feature_extraction.text
+sklearn.metrics.pairwise
